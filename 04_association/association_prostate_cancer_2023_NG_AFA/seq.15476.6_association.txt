@@ -1,0 +1,2 @@
+PANEL	FILE	ID	HSQ	MODEL	N_SNP	N_cis	N_trans	MODELCV.R2	MODELCV.PV	PWAS.Z	PWAS.P
+03_establish_models/AFR_male_5e-9	03_establish_models/AFR_male_5e-9/08_establish_prediction_models/models//seq.15476.6.wgt.RDat	seq.15476.6	0.502	lasso	23	23	0	0.45	5.2e-60	-0.239	0.811

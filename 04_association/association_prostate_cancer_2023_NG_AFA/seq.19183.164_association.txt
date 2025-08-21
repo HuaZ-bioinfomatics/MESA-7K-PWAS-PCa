@@ -1,0 +1,2 @@
+PANEL	FILE	ID	HSQ	MODEL	N_SNP	N_cis	N_trans	MODELCV.R2	MODELCV.PV	PWAS.Z	PWAS.P
+03_establish_models/AFR_male_5e-9	03_establish_models/AFR_male_5e-9/08_establish_prediction_models/models//seq.19183.164.wgt.RDat	seq.19183.164	0.0373	blup	536	390	146	0.018	0.0025	-0.267	0.79

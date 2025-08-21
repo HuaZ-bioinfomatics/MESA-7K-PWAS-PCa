@@ -1,0 +1,35 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --allow-no-sex
+  --bfile /data/sliu/database/LD-reference/LD_ref/EUR_male
+  --extract 03_establish_models/CAU_male_5e-9/08_establish_prediction_models/models/seq.3280.49_SNPs_in_models.txt
+  --make-bed
+  --out 03_establish_models/CAU_male_5e-9/08_establish_prediction_models/ref_ld/seq.3280.49_1000G
+
+Hostname: wu-940
+Working directory: /data/sliu/project/MESA_SomaScan_7K_PWAS
+Start time: Wed May 21 18:30:31 2025
+
+Random number seed: 1747888231
+1546547 MB RAM detected; reserving 773273 MB for main workspace.
+16988052 variants loaded from .bim file.
+239 people (0 males, 0 females, 239 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+03_establish_models/CAU_male_5e-9/08_establish_prediction_models/ref_ld/seq.3280.49_1000G.nosex
+.
+--extract: 926 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 239 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is in [0.9999995, 1).
+926 variants and 239 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to
+03_establish_models/CAU_male_5e-9/08_establish_prediction_models/ref_ld/seq.3280.49_1000G.bed
++
+03_establish_models/CAU_male_5e-9/08_establish_prediction_models/ref_ld/seq.3280.49_1000G.bim
++
+03_establish_models/CAU_male_5e-9/08_establish_prediction_models/ref_ld/seq.3280.49_1000G.fam
+... done.
+
+End time: Wed May 21 18:30:48 2025

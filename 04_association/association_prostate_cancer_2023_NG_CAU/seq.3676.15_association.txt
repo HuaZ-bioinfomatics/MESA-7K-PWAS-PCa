@@ -1,0 +1,2 @@
+PANEL	FILE	ID	HSQ	MODEL	N_SNP	N_cis	N_trans	MODELCV.R2	MODELCV.PV	PWAS.Z	PWAS.P
+03_establish_models/CAU_male_5e-9	03_establish_models/CAU_male_5e-9/08_establish_prediction_models/models//seq.3676.15.wgt.RDat	seq.3676.15	0.506	enet	49	49	0	0.31	1.4e-63	-3.57	0.00036
